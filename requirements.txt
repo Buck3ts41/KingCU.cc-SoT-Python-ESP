@@ -1,0 +1,4 @@
+psutil
+pyglet
+pywin32
+art

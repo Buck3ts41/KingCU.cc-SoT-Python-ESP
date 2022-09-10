@@ -1,0 +1,19 @@
+2022-09-10 16:00:16,622 INFO Hack Version: 1.5.0
+2022-09-10 16:00:17,507 INFO gObject offset: 0x1748914
+2022-09-10 16:00:17,507 INFO uWorld offset: 0x77886b
+2022-09-10 16:00:17,507 INFO gName offset: 0x165fcf8
+2022-09-10 16:00:17,508 INFO Process ID: 5140
+2022-09-10 16:00:17,508 INFO SoT gName Address: 0x7ff705fdaf30
+2022-09-10 16:00:17,508 INFO SoT gObject Address: 0x7ff705fdf288
+2022-09-10 16:00:37,268 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,268 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,268 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,284 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,284 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,299 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,299 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,315 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,315 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,331 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,331 ERROR Couldn't generate screen coordinates for entity: float division by zero
+2022-09-10 16:00:37,346 ERROR Couldn't generate screen coordinates for entity: float division by zero
